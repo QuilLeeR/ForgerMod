@@ -45,4 +45,4 @@
 - `Added DPI/screen scaling support (not sure if it works, I'm assuming it does because I had to resize pretty much everything).`
 - `The font has been changed and will now use the "Noto Sans Mono" font.`
 - `Exe verification has been changed so if a mod is not set to Plus it will still show patches and you can apply them (for those using Ubi Plus).`
-- `𝗧𝗵𝗲 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆 𝗵𝗮𝘀 𝗯𝗲𝗲𝗻 𝗮𝗱𝗱𝗲𝗱. Therefore, from now on, you will have a button to save the profile with the mods you have activated in an XML file. Then, when you drag the XML into the program, those mods will be applied https://youtu.be/X0cUG8BWgbo`
+- `𝗧𝗵𝗲 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆 𝗵𝗮𝘀 𝗯𝗲𝗲𝗻 𝗮𝗱𝗱𝗲𝗱. Therefore, from now on, you will have a button to save the profile with the mods you have activated in an XML file. Then, when you drag the XML into the program, those mods will be applied.` https://youtu.be/X0cUG8BWgbo
