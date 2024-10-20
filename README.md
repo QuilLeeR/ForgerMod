@@ -3,6 +3,7 @@
 <img src="https://i.imgur.com/vYrx6te.png" alt="Forger Patches Manager">
 <img src="https://i.imgur.com/CANu3DM.png" alt="Forger Patches Manager">
 <img src="https://i.imgur.com/HGDvZFI.png" alt="Forger Patches Manager">
+<img src="https://i.imgur.com/xZwvM7y.png" alt="Forger Patches Manager">
 
 ## Description
 
